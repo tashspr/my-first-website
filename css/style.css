@@ -29,11 +29,6 @@ nav a:hover{
     background-color: #ffffff;
     color: #4a4a4f;
 }
-.row: active{
-    background-color: #ffffff;
-    colour: #4a4a4f;
-    cursor: default;
-    }
 
 .card {
     float: left;
